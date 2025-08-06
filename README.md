@@ -30,8 +30,8 @@
 ---
 
 ### Featured Projects
-- [**Superstore Sales and Forecasting**](#) — Power BI dashboard for sales insights and forecasting trends  
-- [**Retail Store Data Analysis (Excel)**](#) — Sales trend and customer behavior analysis  
+- [**Excel Project**](https://github.com/Anjali29kri/Excel-Project)
+- [**Shopify Dashboard**](https://github.com/Anjali29kri/Shopify-dashboard) 
  
 
 ---
