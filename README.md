@@ -23,9 +23,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-00599C?style=flat)
+![Statistical Modeling](https://img.shields.io/badge/-Statistical_Modeling-6c757d?style=flat)
+![NLP](https://img.shields.io/badge/-NLP-purple?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-282c34?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG_Pipeline-blue?style=flat
+![RAG](https://img.shields.io/badge/-RAG_Pipeline-blue?style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
