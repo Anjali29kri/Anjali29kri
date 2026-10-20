@@ -24,18 +24,19 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
+![Artificial Intelligence](https://shields.io)
+![Machine Learning](https://shields.io)
+![Natural Language Processing](https://shields.io)
+![Generative AI](https://shields.io)
 ---
 
 ### Featured Projects
-- [**Excel Project**](https://github.com/Anjali29kri/Excel-Project)
-- [**Shopify Dashboard**](https://github.com/Anjali29kri/Shopify-dashboard) 
- **[Real Estate Price Intelligence Report & Model](#)**
+- **[Real Estate Price Intelligence Report & Model](https://github.com/Anjali29kri/Real-Estate-Price-intelligence-report-and-model.git)**
    * *Business & Analytics:* Built a comprehensive 2-page Power BI dashboard analyzing 1M+ records (2001–2021) with KPI tracking, regional segmentation, and trend analysis.
    * *Predictive Modeling:* Engineered a Random Forest model (RMSE: 0.70) in Python to forecast long-term valuation trends and isolate core price drivers.
-2. **[SQL Query Generator using Generative AI](#)**
+- **[SQL Query Generator using Generative AI](https://github.com/Anjali29kri/End-to-End-Text-to-SQL-Query-Generator-Using-Google-Gemini.git)**
    * Designed a Streamlit application powered by Google Gemini that translates natural language into optimized SQL queries, drastically simplifying database interactions and cutting formulation time by 50%.
-3. **[Generative AI Healthcare Assistant (RAG)](#)**
+- **[Generative AI Healthcare Assistant (RAG)](#)**
    * Developed an intelligent data retrieval and generation pipeline using Hugging Face embeddings, a FAISS vector database, and Mistral LLM via LangChain with an interactive Streamlit UI.
 
 ---
@@ -43,12 +44,6 @@
 
 ---
 
-###  Career Goals
-- Become a **Data Analyst / Business Intelligence Analyst** in a growth-oriented organization  
-- Contribute to **data-driven decision-making** and **process optimization**  
-- Learn and transition towards **Data Engineering & Machine Learning applications**  
-
----
 
 ### 🔗 Let's Connect
 [![LinkedIn - Anjali](https://img.shields.io/badge/LinkedIn-Anjali%20Kumari-blue?logo=linkedin)](https://www.linkedin.com/in/anjali-kumari-27374624b/)
